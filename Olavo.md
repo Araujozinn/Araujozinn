@@ -2,9 +2,9 @@
 - 👀 I’m interested in jogos
 - 🌱 I’m currently learning programação 
 - 💞️ I’m looking to collaborate on alura
-- 📫 How to reach me e so andar por ai
+- 📫 How to reach me e so andar por ai ou entrar em contato com olavoaraujo9@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: vasco da gama
+- ⚡ Fun fact: ...
 
 <!---
 Araujozinn/Araujozinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
