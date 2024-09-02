@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Araujozinn
 - 👀 I’m interested in jogos
-- 🌱 I’m currently learning gg easy
-- 💞️ I’m looking to collaborate on casado
-- 📫 How to reach me dance
+- 🌱 I’m currently learning programação 
+- 💞️ I’m looking to collaborate on alura
+- 📫 How to reach me e so andar por ai
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: cassio
+- ⚡ Fun fact: vasco da gama
 
 <!---
 Araujozinn/Araujozinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
